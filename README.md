@@ -7,5 +7,6 @@ Playwright
 Allure (with Java)
 
 Clone the repository
-Open the project in your Favourite IDE
-Run the tests that the IDE can find
+Type "npm install" via command line
+Run the tests by typing "npm run test",
+or alternatively, run it in your favourite IDE.
